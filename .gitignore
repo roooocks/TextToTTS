@@ -1,0 +1,13 @@
+# 테스트 폴더
+audio
+audioResult
+text
+
+# 가상환경 패키지들
+venv
+
+# 실행파일
+*.exe
+
+# pyinstaller
+*.spec
